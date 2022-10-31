@@ -1,0 +1,49 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model IEnumerable<Parking>
+@{
+    ViewData["Title"] = "Parking";
+
+}
+<div class="card">
+    <div class="card-header">
+        <h5 class="card-title">Parking</h5>
+         </div>
+    @if (Model.Count() > 0)
+    {
+        <table class="table table-striped table-hover">
+            <thead>
+                <tr>
+
+                    <th>ID</th>
+                    <th>Parking Name</th>
+                    <th>UsableTo</th>
+                    <th>Restriction</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                <tr>
+                    <td>@item.TypeID</td>
+                    <td>@item.Name</td>
+                    <td>@item.UsableTo</td>
+
+                    <td>
+                        @item.Restriction
+                    </td>
+                </tr>
+                }
+
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <p>No Parkings Available</p>
+    }
+</div>
+<a asp-controller="Parking" asp-action="Index">Home</a>

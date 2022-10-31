@@ -1,0 +1,52 @@
+﻿@model Vehicle
+
+@{
+    ViewData["Title"] = "Delete Vehicle";
+}
+
+<h2>Delete Packing User</h2>
+
+<h4>Are you sure you want to delete this Vehicle?</h4>
+<div>
+    <hr />
+    <p>
+        <span class="font-weight-bold">
+            Driver Name
+        </span><br />
+
+        @Model.DriverName
+    </p>
+    <p>
+        <span class="font-weight-bold">
+            ID Number
+        </span><br />
+        @Model.IDNumber
+    </p>
+    <p>
+        <span class="font-weight-bold">
+            Vehicle Registration
+        </span><br />
+
+        @Model.Registration
+    </p>
+    <p>
+        <span class="font-weight-bold">
+            Parking Type
+        </span><br />
+        @Model.ParkingAssigned
+    </p>
+    <p>
+        <span class="font-weight-bold">
+            Phone Number
+        </span><br />
+        @Model.CellNumber
+    </p>
+
+    <form method="post" asp-action="Delete">
+        <input type="hidden" asp-for="UserID" />
+        <input type="submit" value="Delete" class="btn btn-primary"
+               /> |
+        <a asp-controller="Security" asp-action="Index">Back to List</a>
+    </form>
+
+</div>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="IlligalParking20201214123517" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\2016377935\\Documents\\Andile\ project\\IlligalParking\\IlligalParking\\obj\\Debug\\netcoreapp3\.1\\PubTmp\\Out\\$" />
+  </parameter>
+  <parameter name="IlligalParking.Data.ApplicationDbContext" description="" value="Data Source=tcp:illigalparking20201214123517dbservernew.database.windows.net,1433;Initial Catalog=IlligalParking20201214123517_db;User Id=Favourite@illigalparking20201214123517dbservernew;Password=Andile@1998" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^C:\\Users\\2016377935\\Documents\\Andile\ project\\IlligalParking\\IlligalParking\\obj\\Debug\\netcoreapp3\.1\\PubTmp\\EFSQLScripts\\IlligalParking\.Data\.ApplicationDbContext\.sql$" />
+  </parameter>
+</parameters>

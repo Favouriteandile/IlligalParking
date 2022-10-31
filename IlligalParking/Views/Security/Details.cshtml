@@ -1,0 +1,46 @@
+﻿@model Vehicle
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Vehicle</h2>
+
+<h4> Full Details?</h4>
+<div>
+    <hr />
+    <p>
+        <span class="font-weight-bold">
+            Driver Name
+        </span><br />
+
+        @Model.DriverName
+    </p>
+    <p>
+        <span class="font-weight-bold">
+            ID Number
+        </span><br />
+        @Model.IDNumber
+    </p>
+    <p>
+        <span class="font-weight-bold">
+            Vehicle Registration
+        </span><br />
+
+        @Model.Registration
+    </p>
+    <p>
+        <span class="font-weight-bold">
+            Parking Type
+        </span><br />
+        @Model.ParkingAssigned
+    </p>
+    <p>
+        <span class="font-weight-bold">
+            Phone Number
+        </span><br />
+        @Model.CellNumber
+    </p>
+
+    <a asp-controller="Security" asp-action="Index">Back to List</a>
+</div>

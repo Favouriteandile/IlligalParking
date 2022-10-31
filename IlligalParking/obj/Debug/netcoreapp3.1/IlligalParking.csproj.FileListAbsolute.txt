@@ -1,0 +1,425 @@
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\appsettings.Development.json
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\appsettings.json
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\IlligalParking.StaticWebAssets.xml
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\IlligalParking.exe
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\IlligalParking.deps.json
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\IlligalParking.runtimeconfig.json
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\IlligalParking.runtimeconfig.dev.json
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\IlligalParking.dll
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\IlligalParking.pdb
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\IlligalParking.Views.dll
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\IlligalParking.Views.pdb
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+H:\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.csprojAssemblyReference.cache
+H:\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.AssemblyInfoInputs.cache
+H:\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.AssemblyInfo.cs
+H:\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.csproj.CoreCompileInputs.cache
+H:\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.MvcApplicationPartsAssemblyInfo.cs
+H:\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.MvcApplicationPartsAssemblyInfo.cache
+H:\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.RazorAssemblyInfo.cache
+H:\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.RazorAssemblyInfo.cs
+H:\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.TagHelpers.input.cache
+H:\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.TagHelpers.output.cache
+H:\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.RazorCoreGenerate.cache
+H:\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+H:\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+H:\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+H:\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+H:\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+H:\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+H:\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+H:\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.RazorTargetAssemblyInfo.cache
+H:\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.RazorTargetAssemblyInfo.cs
+H:\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.Views.pdb
+H:\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.csproj.CopyComplete
+H:\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\staticwebassets\IlligalParking.StaticWebAssets.Manifest.cache
+H:\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\staticwebassets\IlligalParking.StaticWebAssets.xml
+H:\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.dll
+H:\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.pdb
+H:\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.genruntimeconfig.cache
+H:\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+H:\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+H:\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Create.cshtml.g.cs
+H:\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Edit.cshtml.g.cs
+H:\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+H:\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Complain\Create.cshtml.g.cs
+H:\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Complain\Delete.cshtml.g.cs
+H:\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Complain\Details.cshtml.g.cs
+H:\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Complain\Index.cshtml.g.cs
+H:\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Parking\Index.cshtml.g.cs
+H:\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Security\Create.cshtml.g.cs
+H:\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Security\Delete.cshtml.g.cs
+H:\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Security\Details.cshtml.g.cs
+H:\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Security\Index.cshtml.g.cs
+H:\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Complain\Completed.cshtml.g.cs
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\IlligalParking.StaticWebAssets.xml
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\IlligalParking.exe
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\IlligalParking.deps.json
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\IlligalParking.runtimeconfig.json
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\IlligalParking.runtimeconfig.dev.json
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\IlligalParking.dll
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\IlligalParking.pdb
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\IlligalParking.Views.dll
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\IlligalParking.Views.pdb
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.csprojAssemblyReference.cache
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.csproj.CoreCompileInputs.cache
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.RazorAssemblyInfo.cache
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.RazorAssemblyInfo.cs
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.AssemblyInfoInputs.cache
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.AssemblyInfo.cs
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.TagHelpers.input.cache
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.TagHelpers.output.cache
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.RazorCoreGenerate.cache
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Create.cshtml.g.cs
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Edit.cshtml.g.cs
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Complain\Completed.cshtml.g.cs
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Complain\Create.cshtml.g.cs
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Complain\Delete.cshtml.g.cs
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Complain\Details.cshtml.g.cs
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Complain\Index.cshtml.g.cs
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Parking\Index.cshtml.g.cs
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Security\Create.cshtml.g.cs
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Security\Delete.cshtml.g.cs
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Security\Details.cshtml.g.cs
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Security\Index.cshtml.g.cs
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.RazorTargetAssemblyInfo.cache
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.RazorTargetAssemblyInfo.cs
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.Views.pdb
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.csproj.CopyComplete
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\staticwebassets\IlligalParking.StaticWebAssets.Manifest.cache
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\staticwebassets\IlligalParking.StaticWebAssets.xml
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.dll
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.pdb
+C:\Users\2016377935\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.genruntimeconfig.cache
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\IlligalParking.StaticWebAssets.xml
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\IlligalParking.exe
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\IlligalParking.deps.json
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\IlligalParking.runtimeconfig.json
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\IlligalParking.runtimeconfig.dev.json
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\IlligalParking.dll
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\IlligalParking.pdb
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\IlligalParking.Views.dll
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\IlligalParking.Views.pdb
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.csproj.AssemblyReference.cache
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.AssemblyInfoInputs.cache
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.AssemblyInfo.cs
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.csproj.CoreCompileInputs.cache
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.RazorAssemblyInfo.cache
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.RazorAssemblyInfo.cs
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\staticwebassets\IlligalParking.StaticWebAssets.Manifest.cache
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\staticwebassets\IlligalParking.StaticWebAssets.xml
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\scopedcss\bundle\IlligalParking.styles.css
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.TagHelpers.input.cache
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.TagHelpers.output.cache
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.RazorCoreGenerate.cache
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Create.cshtml.g.cs
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Edit.cshtml.g.cs
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Complain\Completed.cshtml.g.cs
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Complain\Create.cshtml.g.cs
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Complain\Delete.cshtml.g.cs
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Complain\Details.cshtml.g.cs
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Complain\Index.cshtml.g.cs
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Parking\Index.cshtml.g.cs
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Security\Create.cshtml.g.cs
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Security\Delete.cshtml.g.cs
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Security\Details.cshtml.g.cs
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Security\Index.cshtml.g.cs
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.RazorTargetAssemblyInfo.cache
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.RazorTargetAssemblyInfo.cs
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.Views.pdb
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.csproj.CopyComplete
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.dll
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.pdb
+C:\Users\Andile\Documents\LENOVO\Documents\Andile project\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.genruntimeconfig.cache
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\IlligalParking.StaticWebAssets.xml
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\IlligalParking.exe
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\IlligalParking.deps.json
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\IlligalParking.runtimeconfig.json
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\IlligalParking.runtimeconfig.dev.json
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\IlligalParking.dll
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\IlligalParking.pdb
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\IlligalParking.Views.dll
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\IlligalParking.Views.pdb
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.csproj.AssemblyReference.cache
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.AssemblyInfoInputs.cache
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.AssemblyInfo.cs
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.csproj.CoreCompileInputs.cache
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.RazorAssemblyInfo.cache
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.RazorAssemblyInfo.cs
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\staticwebassets\IlligalParking.StaticWebAssets.Manifest.cache
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\staticwebassets\IlligalParking.StaticWebAssets.xml
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\scopedcss\bundle\IlligalParking.styles.css
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.TagHelpers.input.cache
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.TagHelpers.output.cache
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.RazorCoreGenerate.cache
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Create.cshtml.g.cs
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Edit.cshtml.g.cs
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Complain\Completed.cshtml.g.cs
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Complain\Create.cshtml.g.cs
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Complain\Delete.cshtml.g.cs
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Complain\Details.cshtml.g.cs
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Complain\Index.cshtml.g.cs
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Parking\Index.cshtml.g.cs
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Security\Create.cshtml.g.cs
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Security\Delete.cshtml.g.cs
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Security\Details.cshtml.g.cs
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Security\Index.cshtml.g.cs
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.RazorTargetAssemblyInfo.cache
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.RazorTargetAssemblyInfo.cs
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.Views.pdb
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.csproj.CopyComplete
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.dll
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.pdb
+C:\Users\Andile\Desktop\IlligalParking\IlligalParking\obj\Debug\netcoreapp3.1\IlligalParking.genruntimeconfig.cache

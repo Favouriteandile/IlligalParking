@@ -1,0 +1,33 @@
+﻿@model Complain
+
+@{
+    ViewData["Title"] = "Details";
+}
+<h2>Details</h2>
+
+<h3> Complain Details</h3>
+<div>
+    <hr />
+    <p>
+        <span class="font-weight-bold">
+            Vehicle Registration
+        </span><br />
+
+        @Model.CarRegistration
+    </p>
+    <p>
+        <span class="font-weight-bold">
+            Parking Type
+        </span><br />
+        @Model.Name
+    </p>
+    <p>
+        <span class="font-weight-bold">
+            Parking Violation
+        </span><br />
+        @Model.Violation
+    </p>
+
+
+    <a asp-controller="Complain" asp-action="Index">Back to List</a>
+</div>
